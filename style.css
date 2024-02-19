@@ -1,0 +1,23 @@
+body {
+    background-color: #82fff3;
+    color: gray;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.name_of_objects {
+    text-emphasis-color: white;
+    background-color: white;
+}
+
+label {
+    background-color: white;
+}
+
+.container {
+    background-color: white;
+}
+
+.header {
+    background-color:#82fff3;
+}
+
